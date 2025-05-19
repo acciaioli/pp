@@ -1,3 +1,3 @@
 def hello() -> str:
-    return "hello"
+    return "pp_0"
 
